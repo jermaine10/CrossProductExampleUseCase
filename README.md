@@ -6,6 +6,7 @@ It is used in number of occassions including to calculate anglular momentum, mag
 
 Research findings.
 Scene1
+
 In this research it is used to compute the rotational axis and angle such that a cannon may face a target.
 By the proof of rotational invariance of cross product,
 cross producting 2 vectors will give the Normals of 2 vectors which will in turn be used with the dot product of vectors
@@ -13,6 +14,7 @@ to compute the required angle and rotational axis.
 
 
 Scene2
+
 This research research on its uses on computer graphics.
 As computer graphics are made by polygons, by interpolating the normals of all the vertices on each polygon, 
 it is possible to create a smoother representation of an object with relatively low geometric detail thus
