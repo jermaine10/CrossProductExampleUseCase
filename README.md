@@ -40,7 +40,11 @@ It is also possible to use it to compute the how bright or shadowed a surface sh
 
 Citations and Proofs
 http://mathworld.wolfram.com/CrossProduct.html
+
 https://betterexplained.com/articles/cross-product/
+
 https://planetmath.org/RotationalInvarianceOfCrossProduct
+
 https://blog.teamtreehouse.com/understanding-normal-maps
+
 https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E7%A9%8D
