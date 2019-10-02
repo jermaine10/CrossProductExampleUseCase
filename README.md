@@ -5,6 +5,7 @@ It is used to find the vector perpendicular(Normals) to two different vector.
 It is used in number of occassions including to calculate anglular momentum, magnetic field force.
 
 Research findings.
+
 Scene1
 
 In this research it is used to compute the rotational axis and angle such that a cannon may face a target.
