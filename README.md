@@ -22,20 +22,6 @@ it is possible to create a smoother representation of an object with relatively 
 reducing reducing the need to make a high res polygon of said object. 
 It is also possible to use it to compute the how bright or shadowed a surface should look under a light source.
 
-ベクトル積の使用研究
-異なるベクトルの法線ベクトルを計算する法式
-角運動量やローレンツ力を計算するためつかわれていた。
-
-研究結果
-シーン１
-大砲を敵を向くための回転の研究
-ベクトル積を使って回転行列 を計算して、その上ドット積を使って回転角とともに使って回転を行います。
-
-シーン２
-コンピュータグラフィックスでの使用研究
-ポリゴンに作られたコンピュータグラフィックスで、その曲面の法線ベクトルを補間したら、最小限のポリゴン数で高質なものような錯覚が作れる。
-そのポリゴンの曲面の明るくさを計算するためにも使われてる
-
 
 
 Citations and Proofs
